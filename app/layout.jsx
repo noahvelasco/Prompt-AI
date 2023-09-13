@@ -10,7 +10,8 @@ export const metadata = {
 const RootLayout = ({children}) => {
   return (
       <html lang="en">
-          <body>
+      <body>
+        <Provider>
               <div className="main">
                   <div className='gradient'/>
               </div>
@@ -18,8 +19,9 @@ const RootLayout = ({children}) => {
             <main className='app'>
               <Nav />
               {children}
-            </main>
-          </body>
+          </main>
+        </Provider>
+      </body>
     </html>
   )
 }
