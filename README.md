@@ -64,3 +64,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 * Setting up MongoDB in Next with Mongoose and API calls
 * Authentication using NextAuth and Google Cloud OAuth Web Creation
+* NEXT.js folder structure/modularization
+* NEXT.js NextAuth Session
+* Tailwind Styling
