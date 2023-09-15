@@ -28,3 +28,8 @@ pnpm dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+## Things I learned
+
+* Setting up MongoDB in Next with Mongoose and API calls
+* Authentication using NextAuth and Google Cloud OAuth Web Creation
